@@ -1,4 +1,6 @@
 # include <stdio.h>
+
+// calcula média aritmética
 int main()
 {
     float n1, n2, n3, n4, media_aritmetica;
